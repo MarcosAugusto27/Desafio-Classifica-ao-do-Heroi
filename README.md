@@ -1,4 +1,4 @@
-# Desafio Classifica ao do Heroi
+# Desafio Classificação do Heroi
 Esse repositorio foi feito para resolver o desafio de projeto da DIO do bootcamp Potência Tech iFood - Programação do Zero
 
 
